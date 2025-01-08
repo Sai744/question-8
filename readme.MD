@@ -13,6 +13,8 @@ Service also should be created inorder to expose this application to external wo
 Services in Kubernetes are essential for communication within and outside of the cluster.
 They provide stable networking to Pods and ensure that services are discoverable and accessible.
 
+* output of mysql manifest file
+
 ![31](https://github.com/user-attachments/assets/b4daa735-f265-4852-a901-9d48136af999)
 
 ![32](https://github.com/user-attachments/assets/1d94da17-178b-4e0a-90be-df52fd9312ca)
