@@ -13,12 +13,17 @@ Service also should be created inorder to expose this application to external wo
 Services in Kubernetes are essential for communication within and outside of the cluster.
 They provide stable networking to Pods and ensure that services are discoverable and accessible.
 
---
---
---
+![31](https://github.com/user-attachments/assets/b4daa735-f265-4852-a901-9d48136af999)
+
+![32](https://github.com/user-attachments/assets/1d94da17-178b-4e0a-90be-df52fd9312ca)
+
+![33](https://github.com/user-attachments/assets/4bf22839-393f-402e-8d7b-d19e1255532f)
+
 
 Backend manifest file output
 
---
---
---
+![34](https://github.com/user-attachments/assets/5b315a89-ab90-4867-8245-465b9ea26753)
+
+![35](https://github.com/user-attachments/assets/d8b07ec8-d6c9-4611-8aa4-3139c3ada1e4)
+
+![36](https://github.com/user-attachments/assets/37af9164-3484-46dc-94c3-92a7e025bb4f)
