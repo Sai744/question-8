@@ -16,7 +16,11 @@ __Service__ also should be created inorder to expose this application to externa
 Services in Kubernetes are essential for communication within and outside of the cluster.
 They provide stable networking to Pods and ensure that services are discoverable and accessible.
 
+<<<<<<< HEAD
 __mysql manifest file output__
+=======
+* output of mysql manifest file
+>>>>>>> 74a2466f241ed2901a8ac04f9035146e9f69528e
 
 ![31](https://github.com/user-attachments/assets/b4daa735-f265-4852-a901-9d48136af999)
 
